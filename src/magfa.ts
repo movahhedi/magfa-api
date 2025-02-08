@@ -1,8 +1,3 @@
-type IMagfaResponse = {
-	status: number;
-	messages: any[];
-};
-
 /**
  * The Magfa API Class
  * @author Shahab Movahhedi
