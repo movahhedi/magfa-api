@@ -39,6 +39,7 @@
 	"unpkg": "./dist/magfa.umd.js",
 	"exports": {
 		".": {
+			"types": "./dist/magfa.d.ts",
 			"require": "./dist/magfa.cjs",
 			"default": "./dist/magfa.modern.js"
 		},
