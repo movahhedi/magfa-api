@@ -343,5 +343,3 @@ export const messageStatuses = {
 	8: "رسیده به مخابرات",
 	16: "نرسیده به مخابرات",
 } as const;
-
-export default Magfa;
